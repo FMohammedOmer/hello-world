@@ -1,1 +1,2 @@
 # hello-world
+For this course, I would like to successfully achieve a good grade and gain knowledge in coding HTML5 and CSS3, and hopefully be skilled at it by the end of this course so I can set the necessary skill to have a good career as a web developer. 
